@@ -53,5 +53,9 @@ minima:
 theme: minima
 
 plugins:
+<<<<<<< HEAD
  #- jekyll-feed
+=======
+ - jekyll-feed
+>>>>>>> c7a4577fedbc815cd394db368e9f56d34bb992b2
  - jekyll-seo-tag
