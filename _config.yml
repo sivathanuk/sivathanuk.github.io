@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 permalink: /:categories/:title/
 show_excerpts: false # set to true to show excerpts on the homepage
 
+
+timezone: Asia/Kolkata
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -51,7 +53,7 @@ minima:
 
 # Build settings
 theme: minima
-
+markdown: kramdown
 plugins:
  #- jekyll-feed
  - jekyll-seo-tag
