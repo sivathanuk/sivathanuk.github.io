@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Writing?"
-categories: jekyll update
+categories: mentalmodels
 ---
 
 

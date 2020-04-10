@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: tech
+title: "Created Categories"
+categories: [tech, design]
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
