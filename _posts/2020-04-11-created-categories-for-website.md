@@ -4,7 +4,7 @@ title:  Organizing the Blog - Topics
 categories: misc
 ---
 
-I enjoy organizing things - be it my workspace, my laptop or my mobile phone. I believe that an organized setup saves a lot of time and helps in thinking clearly. I wanted to organize this blog as well, based on my favorite topics: Product design, strategy, system design, ux,  analytics, decision-making, consumer psychology etc. 
+I enjoy organizing things - be it my workspace, my laptop or my mobile phone. I believe that an organized setup saves a lot of time and helps in thinking clearly. I wanted to organize this blog based on my favorite topics: Product design, strategy, system design, ux, analytics, decision-making, consumer psychology etc. 
 
 I have created a reading list, organized books into kindle collections and started reading books based on my mood and interest. I have planned to write reviews of books as I finish reading them. 
 
