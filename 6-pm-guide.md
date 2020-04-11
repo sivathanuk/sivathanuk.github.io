@@ -7,7 +7,7 @@ This curated list serves as a quick reference guide on product management topics
 
 #### First Principles Thinking
 - [The First Principles of Product Management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) - Brandon Chu, Shopify
-- James Clear's [Blog](https://jamesclear.com/first-principles)
+- [First Principles: Elon Musk on the Power of Thinking for Yourself](https://jamesclear.com/first-principles) - James Clear's Blog
 - [First Principles Approach in Building Products](https://theproductdesignblog.com/first-principle-approach-in-building-startups-and-products-ac13e013def8) - Diwakar Kaushik, Go-Jek
 
 #### Traits of a Good Product Manager
