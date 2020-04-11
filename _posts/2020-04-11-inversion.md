@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inversion (Via-Negativa)"  
-date: 2020-04-11 10:38
+date: 2020-04-11 22:00
 categories: mentalmodels
 ---
 >  "Tell me where I’m going to die, that is, so I don’t go there." - Charlie Munger
