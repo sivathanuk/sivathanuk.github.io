@@ -44,6 +44,7 @@ This curated list serves as a quick reference guide on product management topics
 #### For New PMs
 - [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4) - Brian Armstrong, Co-Founder and CEO at @ Coinbase
 - [How To Get Into Product Management (And Thrive)](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf) - Lenny Rachitsky, ex-Growth PM @ Airbnb
+- [Top 75+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) - Sachin Rekhi
 
 #### Tech Fundamentals
 - [Desiging Data Intensive Applications - Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md)
