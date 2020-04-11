@@ -11,9 +11,9 @@ This curated list serves as a quick reference guide on product management topics
 - [First Principles Approach in Building Products](https://theproductdesignblog.com/first-principle-approach-in-building-startups-and-products-ac13e013def8) - Diwakar Kaushik, Go-Jek
 
 #### Traits of a Good Product Manager
-- a16z [Blog](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
+- [a16z Blog](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 - [Top 1% vs top 10% PM](https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister?share=1&srid=XTNG)
-- Intercom [Blog](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
+- [Intercom Blog](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
 - [PM Mental Models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - Brandon Chu
 - [The Role of Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - HBR
 - [Maker's Schedule](http://paulgraham.com/makersschedule.html) - Paul Grahm
@@ -30,10 +30,10 @@ This curated list serves as a quick reference guide on product management topics
 - [Lean Prioritisation](https://www.mindtheproduct.com/enter-matrix-lean-prioritisation/)
 
 #### Writing 
-- [How to Write a Painless PRD](https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a)
-- [Google Technical Writing](https://developers.google.com/tech-writing/overview)
 - [The Day You Became a Better Writer](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) - Scott Adams
 - [Writing, Briefly](http://www.paulgraham.com/writing44.html) - Paul Grahm
+- [How to Write a Painless PRD](https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a)
+- [Google Technical Writing](https://developers.google.com/tech-writing/overview)
 
 #### Personas
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) - Clayton M. Christensen 
@@ -42,13 +42,15 @@ This curated list serves as a quick reference guide on product management topics
 - [Everything a Product Manager Needs to Know About Experiments](https://www.mindtheproduct.com/experiments-101/)
 
 #### For New PMs
-- [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4) - Brian Armstrong, Co-Founder and CEO at @Coinbase
-- [How To Get Into Product Management (And Thrive)](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf) - Lenny Rachitsky, ex-Growth PM Lead @ Airbnb
+- [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4) - Brian Armstrong, Co-Founder and CEO at @ Coinbase
+- [How To Get Into Product Management (And Thrive)](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf) - Lenny Rachitsky, ex-Growth PM @ Airbnb
 
-#### Tech Basics
+#### Tech Fundamentals
+- [Desiging Data Intensive Applications - Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Software Project Estimation](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/hh765979(v=vs.120)?redirectedfrom=MSDN) - Microsoft Blog
 - [Software Development Methodologies](https://simpleprogrammer.com/software-development-methodologies/)
 - [What’s the Difference between Native vs. Web vs. Hybrid Apps?](https://getgist.com/difference-between-native-vs-web-vs-hybrid-apps/)
-- [Software Project Estimation](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/hh765979(v=vs.120)?redirectedfrom=MSDN) - Microsoft Blog
 
 #### Product Case Studies from StellarPeers
 - [Estimate Google AdSense Revenue](https://stellarpeers.com/how-would-you-estimate-google-adsense-revenue/)
