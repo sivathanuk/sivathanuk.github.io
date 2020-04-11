@@ -29,15 +29,21 @@ This curated list serves as a quick reference guide on product management topics
 - [Pandora’s Product Prioritization Process](https://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/)
 - [Lean Prioritisation](https://www.mindtheproduct.com/enter-matrix-lean-prioritisation/)
 
-#### PRD Fundamentals
+#### Writing 
 - [How to Write a Painless PRD](https://medium.com/@uxpin/how-to-write-a-painless-product-requirements-document-508ff6807b4a)
 - [Google Technical Writing](https://developers.google.com/tech-writing/overview)
+- [The Day You Became a Better Writer](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) - Scott Adams
+- [Writing, Briefly](http://www.paulgraham.com/writing44.html) - Paul Grahm
 
 #### Personas
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) - Clayton M. Christensen 
 
 #### Experiments
 - [Everything a Product Manager Needs to Know About Experiments](https://www.mindtheproduct.com/experiments-101/)
+
+#### For New PMs
+- [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4) - Brian Armstrong, Co-Founder and CEO at @Coinbase
+- [How To Get Into Product Management (And Thrive)](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf) - Lenny Rachitsky, ex-Growth PM Lead @ Airbnb
 
 #### Tech Basics
 - [Software Development Methodologies](https://simpleprogrammer.com/software-development-methodologies/)
