@@ -6,7 +6,7 @@ title: PM Guide
 This curated list serves as a quick reference guide on product management topics. I'll update this list as I stumble upon high quality PM content on the web. 
 
 #### First Principles Thinking
-- From Shopify's [Brandon Chu](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c)
+- [The First Principles of Product Management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) - Brandon Chu, Shopify
 - James Clear's [Blog](https://jamesclear.com/first-principles)
 - [First Principles Approach in Building Products](https://theproductdesignblog.com/first-principle-approach-in-building-startups-and-products-ac13e013def8) - Diwakar Kaushik, Go-Jek
 
