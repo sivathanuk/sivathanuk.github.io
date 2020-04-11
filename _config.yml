@@ -54,6 +54,8 @@ minima:
 # Build settings
 theme: minima
 markdown: kramdown
+html_to_native: true
+hard_wrap: true
 plugins:
  #- jekyll-feed
  - jekyll-seo-tag

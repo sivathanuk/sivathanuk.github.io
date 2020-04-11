@@ -10,9 +10,9 @@ Setting goals help us move in the direction of success. We all have personal and
 
 Inversion framework works on the principle of addition by subtraction. Inversion works as below, 
 ```
-1. You have a goal to achieve
-2. Think about all possible actions that gurantee failure
-3. Do less of the actions that guarantee failure
+1.You have a goal to achieve
+2.Think about all possible actions that gurantee failure
+3.Do less of the actions that guarantee failure
 ```
 Example 1: Applying Inversion to achieve a fitness goal
 1. Goal: I want to lose weight 
