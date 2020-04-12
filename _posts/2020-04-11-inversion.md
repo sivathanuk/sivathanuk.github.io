@@ -6,7 +6,7 @@ categories: mentalmodels
 ---
 >  "Tell me where I’m going to die, that is, so I don’t go there." - Charlie Munger
 
-Setting goals help us move in the direction of success. We all have personal and professional goals in life. We work hard towards achieving the goals and move forward. 
+Setting goals helps us move in the direction of success. We all have personal and professional goals in life. We work hard towards achieving the goals and move forward. 
 
 Inversion framework works on the principle of addition by subtraction. Inversion works as below, 
 ```
