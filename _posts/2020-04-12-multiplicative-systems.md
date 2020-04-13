@@ -27,7 +27,7 @@ But, the company's customer care department is terrible. The department is under
 
 Customers will never come back and share the bad experience on public forums, further damaging the reputation of the company. Gains from all other departments are lost due to one department that is extremely bad. 
 ```
-quality (Q) * features (F) * price (P) * support (0) = 0
+quality (Q) * features(F) * price (P) * support (0) = 0
 ```
 
 
