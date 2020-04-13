@@ -15,6 +15,6 @@ In simple terms, <b>second-order thinking</b> helps to answer <b><i>What Next?</
 
 e.g. <b>Cobra Effect</b> is a very good example of how linear thinking can result in unexpected, at times harmful outcomes. 
 
-During British India , there was cobra menace in the region. The rulers came up with a solution - incentivizing people for every dead cobra so that the region can get rid of the snakes. But, the incentives motivated people to breed cobras, kill them and then present it to the rulers before collecting the rewards. 
+During British India , there was cobra menace in the region. The rulers came up with a solution - incentivizing people for every dead cobra, so that the region can get rid of the snakes. But, the incentives motivated people to breed cobras, kill them and then present it to the rulers before collecting their rewards. 
 
 This resulted in an increase in the number of cobras, exact opposite of what the authorities wanted! 
