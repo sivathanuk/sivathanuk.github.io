@@ -17,7 +17,7 @@ Every small, consistent, positive step taken, spanning over a period of time, co
 4. Investing 20% of monthy income on index funds for 25 years - financial wealth 
 5. Solving coding puzzles everday for 10 years - become a better programmer
 
-Mathematically, how 1% daily improvement vs 1% daily decay spans out at the end of an year! 
+Mathematically, how '1% daily improvement' <b><i>vs</i></b> '1% daily decay' spans out at the end of an year! 
 ``` 
    (1)^365 = 1
 (1.01)^365 = 37.8   
