@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Compounding"  
-date: 2020-04-16 21:00
+date: 2020-04-16 19:00
 categories: mentalmodels
 ---
-> "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest."– Naval
+> "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest." – Naval
 
 Compounding happens when the rate of growth of a phenomenon increases with time. It can be applied to the rate of decay as well. Every small, consistent, positive step taken, spanning over a period of time, compounds and result in an exponential improvement. <b>Consistency</b> is the key here. 
 
