@@ -8,7 +8,9 @@ categories: mentalmodels
 
 Compounding happens when the rate of growth of a phenomenon increases with time. It can be applied to the rate of decay as well. 
 
-Every small, consistent, positive step taken, spanning over a period of time, compounds and result in an exponential improvement. <b>Consistency</b> is the key here. Some real life examples, 
+Every small, consistent, positive step taken, spanning over a period of time, compounds and result in an exponential improvement. 
+
+<b>Consistency</b> is the key here. Some real life examples, 
 1. 40 mins of physical activiy daily for 20 years - good health 
 2. Smoking cigarattes everyday for 20 years - poor health
 3. Journaling everday for 10 years - become a better writer
