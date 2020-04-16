@@ -6,9 +6,9 @@ categories: mentalmodels
 ---
 > "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest." – Naval
 
-Compounding happens when the rate of growth of a phenomenon increases with time. It can be applied to the rate of decay as well. Every small, consistent, positive step taken, spanning over a period of time, compounds and result in an exponential improvement. <b>Consistency</b> is the key here. 
+Compounding happens when the rate of growth of a phenomenon increases with time. It can be applied to the rate of decay as well. 
 
-Some real life examples, 
+Every small, consistent, positive step taken, spanning over a period of time, compounds and result in an exponential improvement. <b>Consistency</b> is the key here. Some real life examples, 
 1. 40 mins of physical activiy daily for 20 years - good health 
 2. Smoking cigarattes everyday for 20 years - poor health
 3. Journaling everday for 10 years - become a better writer
