@@ -14,12 +14,12 @@ Try answering the below,
 2563 * 19874 * 0 * 39856 = 0
 5467 + 67687 + 0 + 52494 = ? 
 ```
-It's easier to answer the middle one, where <b>muliplying by zero</b> makes the result zero. Same applies for complex systems as well. Whe one part of the complex system fails, the entire system fails. 
+It's easier to answer the middle one, where <b>multiplying by zero</b> makes the result zero. Same applies for complex systems as well. When one part of the complex system fails, the entire system fails. 
 
-<b> Multiplicative model in real world scenario: </b>
+<b> Multiplicative model in real-world scenario: </b>
 
 Consider a consumer electronics company that-
-* makes high quality products 
+* makes high-quality products 
 * ships feature updates regularly
 * sells the products at an affordable price
 
