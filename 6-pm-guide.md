@@ -47,6 +47,7 @@ This curated list serves as a quick reference guide on product management topics
 - [Top 75+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) - Sachin Rekhi
 
 #### Tech Fundamentals
+- [API Based Platforms - for Product Managers](https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/)
 - [Desiging Data Intensive Applications - Notes](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md)
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Software Project Estimation](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/hh765979(v=vs.120)?redirectedfrom=MSDN) - Microsoft Blog
