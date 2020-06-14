@@ -10,7 +10,7 @@ Naval is one of my favorite personalities on twitter. He is a wise person and sh
 In a periscope session, he shared the frameworks he use to make decisions. They are, 
 
 1. <b>To make right long-term decisions:</b>
-We live in a world full of choices. If you can't decide then the answer is "No". 
+We live in a world full of choices. If you can't decide, then the answer is "No". 
 
 2. <b>To make a choice between equally good alternatives:</b>
 If you have to make a choice between two alternatives that are equally good (50:50), chose the one that is more difficult and more painful in the short-term vs the one that looks easy in the short-term but gets painful in the long-term. Short-term pain leads to long term gain. The gains are compounded long-term. 
