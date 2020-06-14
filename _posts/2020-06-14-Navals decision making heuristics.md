@@ -7,7 +7,7 @@ categories: mentalmodels
 
 Naval is one of my favorite personalities on twitter. He is a wise person and shares tidbits of his wisdom thru tweets / persicope sessions. 
 
-He shared the frameworks he use to make decisions in a periscope session. They are, 
+In a periscope session, he shared the frameworks he use to make decisions. They are, 
 
 1. <b>To make right long-term decisions:</b>
 We live in a world full of choices. If you can't decide then the answer is "No". 
