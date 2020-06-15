@@ -54,7 +54,8 @@ This curated list serves as a quick reference guide on product management topics
 - [Software Development Methodologies](https://simpleprogrammer.com/software-development-methodologies/)
 - [What’s the Difference between Native vs. Web vs. Hybrid Apps?](https://getgist.com/difference-between-native-vs-web-vs-hybrid-apps/)
 
-#### Product Case Studies from StellarPeers
+#### Product Case Studies / Interview Preparation
+- [Amazon PM interview reference](https://igotanoffer.com/blogs/product-manager/amazon-product-manager-interview)
 - [Estimate Google AdSense Revenue](https://stellarpeers.com/how-would-you-estimate-google-adsense-revenue/)
 - [How Much Storage Space Do You Need for Google Maps?](https://stellarpeers.com/how-much-storage-space-do-you-need-for-google-maps/)
 - [What Metrics Would You Use for Airbnb’s Experiences Feature?](https://stellarpeers.com/what-metrics-would-you-use-for-airbnbs-experiences-feature/)
