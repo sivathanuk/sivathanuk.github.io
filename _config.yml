@@ -1,6 +1,6 @@
 title: Sivathanu K
 author:
-  name: Sivathanu K
+name: Sivathanu K
 description: > # this means to ignore newlines until "show_excerpts:"
   I love to read, write and create!
 permalink: /:categories/:title/
@@ -8,7 +8,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 
 timezone: Asia/Kolkata
-
+include: [_pages]
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
